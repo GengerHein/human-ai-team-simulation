@@ -33,3 +33,9 @@ pip install pandas numpy matplotlib
 cd scripts
 python run_simulation.py
 
+## Simulation Result
+
+The chart below shows how opinions gradually converge over 10 discussion rounds.  
+Teams using **Explainable AI (XAI)** reach agreement faster than teams using **Opaque AI**.
+
+![Opinion Convergence](visualizations/opinion_convergence.png)
